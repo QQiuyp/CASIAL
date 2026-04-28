@@ -1,0 +1,12 @@
+{
+  "method_name": "CASIAL",
+  "data_root": "",
+  "seed": 1234,
+  "batch_size": 16,
+  "num_workers": 8,
+  "image_size": 128,
+  "message_length": 64,
+  "watermark_alpha": 1.0,
+  "scaling_w": 1.0,
+  "jnd_1_1": true
+}
