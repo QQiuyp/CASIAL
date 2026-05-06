@@ -1,8 +1,9 @@
 # 🏷️ CASIAL
 
 <p align="center">
-  <b>✨ Image Watermarking Robust to Geometric Distortions ✨</b>
+  <b>✨ CASIAL: Geometric Distortion Robust Image Watermarking ✨</b>
 </p>
+
 
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/📄_Paper-CASIAL-blue" alt="Paper"></a>
